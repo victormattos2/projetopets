@@ -1,0 +1,5 @@
+CREATE TABLE cor (
+ 	
+ 	id_cor	BIGINT (20) NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+ 	nome 	VARCHAR(100)
+ );
